@@ -1,3 +1,11 @@
+.title-slide {
+  background-image: url(UOSignature-107-4C.svg);
+  background-position: 50% 95%;
+  background-size: 125px;
+  background-repeat: no-repeat;
+  z-index: 99;
+}
+
 h1, h2, h3 {
   font-weight: normal;
   color: #007935;
