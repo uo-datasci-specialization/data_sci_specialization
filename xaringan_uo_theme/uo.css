@@ -1,0 +1,30 @@
+h1, h2, h3 {
+  font-weight: normal;
+  color: #007935;
+}
+
+a {
+  color: #3F97B5;
+}
+a:hover {
+  color: #FFD200;
+}
+
+code {
+  color: #000;
+  background-color: #eee;
+  text-decoration: none;
+  padding-left: .2em;
+  padding-right: .2em;
+  font-size: 90%;
+
+}
+.remark-code-line-highlighted     { background-color: #FEE123; }
+
+.inverse {
+  background-color: #154733;
+  /*text-shadow: 0 0 2px #E1E000;*/
+}
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #FEE123;
+}

@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin);
+@import url(https://fonts.googleapis.com/css?family=Melior);
+@import url(https://github.com/hbin/top-programming-fonts/blob/master/Menlo-Regular.ttf);
+
+body { font-family: 'Melior', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif; color: #47484D;}
+h1, h2, h3 { font-family: 'Cabin', 'Yanone Kaffeesatz'; }
+
+.remark-code, .remark-inline-code {font-family: 'Menlo-Regular'}
