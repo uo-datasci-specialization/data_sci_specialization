@@ -5,7 +5,7 @@ author: "Yihui Xie"
 date: "2016/12/12"
 output:
   xaringan::moon_reader:
-    css: ["default", "uo.css", "uo-fonts.css"]
+    css: ["default", "uo.css", "uo-fonts.css", "hygge"]
     lib_dir: libs
     nature:
       highlightStyle: foundation
@@ -170,7 +170,6 @@ Some differences between using remark.js (left) and using **xaringan** (right):
 .footnote[[*] Not really. See next page.]
 
 ---
-
 # Math Expressions
 
 You can write LaTeX math expressions inside a pair of dollar signs, e.g. &#36;\alpha+\beta$ renders $\alpha+\beta$. You can use the display style with double dollar signs:
@@ -179,7 +178,7 @@ You can write LaTeX math expressions inside a pair of dollar signs, e.g. &#36;\a
 $$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
 ```
 
-$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
+.large[$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$]
 
 Limitations:
 
