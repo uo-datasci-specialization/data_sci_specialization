@@ -1,21 +1,21 @@
 [Link to google doc with shared syllabus brainstorming](https://docs.google.com/document/d/1yVYSAdEjsYtFigLoanPjoJDN93O71R5dd9YAFYQZh3o/)
 
-# C1: Introduction to Data Science
+(Daniel moved individual course learning objectives to the README in the
+corresponding repo)
 
-## Skills
-- Be able to use version control with R via Git through RStudio Projects
-- Be able to use R Markdown to create reproducible dynamic reports
-- Be able to read "flat" (i.e., rectangular) data into R and explore 
-- Choose the tidyverse appropriate for introductory data science tasks (pipeline)
-- Understand and create different types of data visualizations
-- Be able to clean up a dataset using scripts in R
-- Be able to perform basic data wrangling and transformations in R
-- Understand the R package ecosystem (how to find them, install, load, and learn what they do)
+# Overall Learning Objectives for the Specialization
+Students who complete all five courses of this specialization will: 
 
-# C2: Communicating and Transforming Data
-
-# C3: Functional Programming in R
-
-# C4: Applied Predictive Modeling
-
-# C5: Capstone
+* Be proficient with R
+	+ Read and write data from a variety of sources relatively effortlessly
+	+ Tidy messy data
+	+ Quickly and efficiently explore data
+* Be able to produce dynamic and reproducible documents in a variety of 
+formats
+  	+ Manuscripts, technical reports
+  	+ Interactive HTML docs (potentially including websites)
+* Be proficient with data visualization
+	+ Understand current thinking in best data visualization practices
+	+ Be able to quickly produce a range of data visualizations appropriate for the given task
+* Be able to build basic predictive models
+	+ Understand differences between inferential and predictive modeling, and which is most appropriate for a given scenario.
