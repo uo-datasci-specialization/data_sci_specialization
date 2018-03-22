@@ -11,6 +11,8 @@ See this link for technical instructions from [Yihui](https://yihui.name/en/2017
 
 * For data, [this](https://www.researchconnections.org/childcare/studies?q=) website looks promising. You can filter by restriction type.
 
+* Chester has added many DataCamp courses in [datacamp_courses.md](datacamp_courses.md).
+
 
 ## MR Prereq
 I posted the syllabus for multiple regression. The book they use is Pedhazur, *Multiple Regression in Behavioral Research: Explanation and Prediction, Third Edition.* The entire book has been posted [here](https://www.google.com/url?q=https://faculty.psau.edu.sa/filedownload/doc-12-pdf-01074d0e0ca64dd52127d542d631eef0-original.pdf&sa=U&ved=0ahUKEwjJh_jin-_ZAhUI3mMKHW7SBEgQFggEMAA&client=internal-uds-cse&cx=010002356876143927115:oo5jupsunao&usg=AOvVaw2sw7WIs4O379wMku5ZRJcG)
