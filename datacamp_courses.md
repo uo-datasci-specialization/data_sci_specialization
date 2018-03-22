@@ -24,7 +24,7 @@ I've also included tentative launch dates too if the course is in development fr
 3. Modeling with Data in the Tidyverse - Albert Kim (2018-05-08)
 4. [Communicating with Data in the Tidyverse - Timo Grossenbacher](https://www.datacamp.com/courses/communicating-with-data-in-the-tidyverse)
 5. Case Studies in the Tidyverse - Alice Daish (2018-06-28)
-6. Categorical Data in the Tidyverse - Emily Robinson (2018-05-06)
+6. Categorical Data in the Tidyverse - Emily Robinson (2018-05-20)
 7. Purrrfect Your R Code - Auriel Fournier (2018-07-05)
 8. Programming with purrr - Colin Fay (2018-08-23)
 9. Managing Multiple Predictive Models - Dima Gorenshteyn (2018-08-15)
