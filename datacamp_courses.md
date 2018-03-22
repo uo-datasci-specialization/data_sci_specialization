@@ -45,4 +45,4 @@ I've also included tentative launch dates too if the course is in development fr
 2. Visualization Best Practices - Nick Strayer (2018-08-15)
 3. Dealing with Missing Data - Nick Tierney (2018-10-05)
 
-Plenty of machine learning courses too!
+Plenty of machine learning courses available too with more in development!
