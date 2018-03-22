@@ -32,11 +32,12 @@ I've also included tentative launch dates too if the course is in development fr
 # Others
 
 1. [Introduction to Data - Mine Cetinkaya-Rundel](https://www.datacamp.com/courses/introduction-to-data)
-2. [Data Visualization with ggplot2 (Part 1) - Rick Scavetta](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
-3. [Data Manipulation in R with dplyr - Garrett Grolemund](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
-4. [Cleaning Data in R - Nick Carchedi](https://www.datacamp.com/courses/cleaning-data-in-r)
-5. [Correlation and Regression - Ben Baumer](https://www.datacamp.com/courses/correlation-and-regression)
-6. [Multiple and Logistic Regression - Ben Baumer](https://www.datacamp.com/courses/multiple-and-logistic-regression)
+2. [Exploratory Data Analysis - Andrew Bray](https://www.datacamp.com/courses/exploratory-data-analysis)
+3. [Data Visualization with ggplot2 (Part 1) - Rick Scavetta](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1)
+4. [Data Manipulation in R with dplyr - Garrett Grolemund](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+5. [Cleaning Data in R - Nick Carchedi](https://www.datacamp.com/courses/cleaning-data-in-r)
+6. [Correlation and Regression - Ben Baumer](https://www.datacamp.com/courses/correlation-and-regression)
+7. [Multiple and Logistic Regression - Ben Baumer](https://www.datacamp.com/courses/multiple-and-logistic-regression)
 
 # More in development
 
