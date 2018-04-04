@@ -1,6 +1,6 @@
 ---
 title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
+subtitle: "with xaringan"
 author: "Yihui Xie"
 date: "2016/12/12"
 output:
@@ -178,7 +178,7 @@ You can write LaTeX math expressions inside a pair of dollar signs, e.g. &#36;\a
 $$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
 ```
 
-.large[$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$]
+$$\bar{X}=\frac{1}{n}\sum_{i=1}^nX_i$$
 
 Limitations:
 
